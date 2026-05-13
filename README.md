@@ -8,10 +8,15 @@ This project supports natural amino acids, modified residues, non-natural buildi
 
 ## Overview
 
-This tool parses a peptide sequence in MAP Format and constructs the corresponding molecular structure programmatically. It resolves residues and modifications from the provided JSON database and assembles the final molecule using RDKit.
+This tool parses a modified peptide sequence in MAP Format and constructs the corresponding SMILES for that peptide. It resolves residues and modifications from the provided JSON database and assembles the final molecule using RDKit.
 
 The repository also includes a lightweight HTML interface for browsing supported amino acids and modifications with ease.
 
+A Python package version is also available on PyPI:
+
+```bash
+pip install pepmodsmi
+```
 ---
 
 ## Features
@@ -31,15 +36,14 @@ The repository also includes a lightweight HTML interface for browsing supported
 ---
 
 ## Repository Structure
-
-
+```
 ├── stitch.py                  # Core sequence-to-SMILES engine
+├── requirements.txt           # Python dependencies
 ├── data/
 │   └── merged_final_data.json # Residue and modification database
 ├── catalogue.html             # Interactive reference catalogue
 └── README.md
-
-
+```
 ---
 
 ## Installation
@@ -51,6 +55,19 @@ The repository also includes a lightweight HTML interface for browsing supported
 
 * Note: Sometimes RDKit may face issues while being installed using pip. If you face any issues, try installing it via conda 
 
+### Install from PyPI
+
+```bash
+pip install pepmodsmi
+```
+
+### Install from source
+
+```bash
+git clone https://github.com/sahilr-24/pepmodsmi
+cd pepmodsmi
+pip install -r requirements.txt
+```
 
 ---
 
@@ -80,7 +97,7 @@ sequence, SMILES (In case of txt file)
 ID, sequence, SMILES (In case of pasta file)
 
 
-Errors are written to:
+**Errors** are written to:
 
 output.csv.errors
 
@@ -101,7 +118,9 @@ A{ptm:mod}C
 
 
 ### Terminal Modifications
-{nt:mod}ACD{ct:mod}
+DRP{nt:mod}
+
+ACD{ct:mod}
 
 
 ### Non-natural Residues
@@ -118,7 +137,7 @@ A{d}CYQS
 ACDE{cyc:n-c}
 
 **Disulfide bonds:**
-ACDC{cyc:1-4}
+ACDC{cyc:2-4}
 
 ---
 
@@ -168,11 +187,11 @@ This file is intended for reference and does not affect SMILES generation.
 ---
 
 ## Notes
-
+```
 Input syntax must strictly follow supported formats
 Unknown modification tags will result in errors
 RDKit sanitization may fail for invalid structures
-
+```
 
 
 
