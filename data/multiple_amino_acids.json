@@ -1,0 +1,821 @@
+[
+  {
+    "Natural Amino Acid": "Multiple (ALA, SER, GLY)",
+    "Modifications": "3,5-DIHYDRO-5-METHYLIDENE-4H-IMIDAZOL-4-ON",
+    "Actual PDB code": "175",
+    "Three letter code": "175",
+    "MAP notation": "{nnr:175}",
+    "Type": null,
+    "SMILES": "C[C@H](N)[C@H]1N[C@@H](CN)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "[2-(1-AMINO-2-HYDROXY-PROPYL)-4-(4-FLUORO-1H-INDOL-3-YLMETHYL)-5-HYDROXY-IMIDAZOL-1-YL]-ACETIC ACID",
+    "Actual PDB code": "4F3",
+    "Three letter code": "4F3",
+    "MAP notation": "{nnr:4F3}",
+    "Type": null,
+    "SMILES": "C[C@H](O)[C@H](N)c1nc(Cc2c[nH]c3cccc(F)c23)c(O)n1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLN, TRP, GLY)",
+    "Modifications": "(4Z)-4-imino-4-[(4Z)-4-(1H-indol-3-ylmethylidene)-5-oxo-1-(2-oxoethyl)-4,5-dihydro-1H-imidazol-2-yl]butanamide",
+    "Actual PDB code": "4M9",
+    "Three letter code": "4M9",
+    "MAP notation": "{nnr:4M9}",
+    "Type": null,
+    "SMILES": "NC(=O)CCC(=N)C1=NC(=C\\c2c[nH]c3ccccc23)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "[(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-(3-chloro-4-hydroxybenzylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid",
+    "Actual PDB code": "4NT",
+    "Three letter code": "4NT",
+    "MAP notation": "{nnr:4NT}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2ccc(O)c(Cl)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(3,5-dichloro-4-oxocyclohexa-2,5-dien-1-yl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "4NU",
+    "Three letter code": "4NU",
+    "MAP notation": "{nnr:4NU}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/C2C=C(Cl)C(=O)C(=C2)Cl)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (HIS, TYR, GLY)",
+    "Modifications": "2-[2-[(1S)-1-azanyl-2-(1H-imidazol-4-yl)ethyl]-4-[(4-hydroxyphenyl)methylidene]-5-oxidanylidene-imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "5SQ",
+    "Three letter code": "5SQ",
+    "MAP notation": "{nnr:5SQ}",
+    "Type": null,
+    "SMILES": "N[C@@H](Cc1c[nH]cn1)C2=NC(=C\\c3ccc(O)cc3)/C(=O)N2CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TRP, GLY)",
+    "Modifications": "(5Z)-2-[(1S,2R)-1-AMINO-2-HYDROXYPROPYL]-5-[(4-AMINO-1H-INDOL-3-YL)METHYLENE]-3-(2-HYDROXYETHYL)-3,5-DIHYDRO-4H-IMIDAZOL-4-ONE",
+    "Actual PDB code": "5ZA",
+    "Three letter code": "5ZA",
+    "MAP notation": "{nnr:5ZA}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2c[nH]c3cccc(N)c23)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (HIS, TYR, GLY)",
+    "Modifications": "2-[(4E)-2-[(1S)-1-azanyl-2-(1H-imidazol-4-yl)ethyl]-4-[(4-hydroxyphenyl)methylidene]-5-oxidanylidene-imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "7R0",
+    "Three letter code": "7R0",
+    "MAP notation": "{nnr:7R0}",
+    "Type": null,
+    "SMILES": "N[C@@H](Cc1c[nH]cn1)C2=NC(=C/c3ccc(O)cc3)/C(=O)N2CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA, TYR, GLY)",
+    "Modifications": "{(4E)-2-[(1S)-1-aminoethyl]-4-[(4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "A1BE5",
+    "Three letter code": "A1BE",
+    "MAP notation": "{nnr:A1BE}",
+    "Type": null,
+    "SMILES": "C[C@H](N)C1=N/C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TY2, GLY)",
+    "Modifications": "2-[(4Z)-2-(aminomethyl)-4-[(3-azanyl-4-oxidanyl-phenyl)methylidene]-5-oxidanylidene-imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "A1IJF",
+    "Three letter code": "A1IF",
+    "MAP notation": "{nnr:A1IF}",
+    "Type": null,
+    "SMILES": "NCC1=NC(=C\\c2ccc(O)c(N)c2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA,TYR,GLY)",
+    "Modifications": "[(4E)-2-[(1S)-1-AMINOETHYL]-4-(4-HYDROXYBENZYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "AYG",
+    "Three letter code": "AYG",
+    "MAP notation": "{nnr:AYG}",
+    "Type": null,
+    "SMILES": "C[C@H](N)C1=NC(=C\\c2ccc(O)cc2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (Thr,Tyr,Gly)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(3-bromo-4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "B2C",
+    "Three letter code": "B2C",
+    "MAP notation": "{nnr:B2C}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=NC(=C\\c2ccc(O)c(Br)c2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TRP, GLY)",
+    "Modifications": "Chromophore (Thr, Trp, Gly)",
+    "Actual PDB code": "B2H",
+    "Three letter code": "B2H",
+    "MAP notation": "{nnr:B2H}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)c1nc(Cc2c[nH]c3ccccc23)c(O)n1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "[(4Z)-2-(aminomethyl)-4-{[4-(benzenecarbonyl)phenyl]methylidene}-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid",
+    "Actual PDB code": "BF6",
+    "Three letter code": "BF6",
+    "MAP notation": "{nnr:BF6}",
+    "Type": null,
+    "SMILES": "NCC1=NC(=C/c2ccc(cc2)C(=O)c3ccccc3)\\C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, PHE, GLY)",
+    "Modifications": "[(4Z)-2-[(1R,2S)-1-amino-2-hydroxypropyl]-4-{[4-(benzenecarbonyl)phenyl]methylidene}-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid",
+    "Actual PDB code": "BF9",
+    "Three letter code": "BF9",
+    "MAP notation": "{nnr:BF9}",
+    "Type": null,
+    "SMILES": "C[C@H](O)[C@H](N)C1=NC(=C/c2ccc(cc2)C(=O)c3ccccc3)\\C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (LEU, LEU, GLY)",
+    "Modifications": "(4Z)-4-amino-4-{1-(carboxymethyl)-5-oxo-4-[(4-oxocyclohexa-2,5-dien-1-ylidene)methyl]-1,5-dihydro-2H-imidazol-2-ylidene}butanoic acid",
+    "Actual PDB code": "BJO",
+    "Three letter code": "BJO",
+    "MAP notation": "{nnr:BJO}",
+    "Type": null,
+    "SMILES": "NC(/CCC(O)=O)=C1/N=C(C=C2C=CC(=O)C=C2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "2-(1-AMINO-2-HYDROXYPROPYL)-4-(4-HYDROXYBENZYL)-1-(2-OXOETHYL)-1H-IMIDAZOL-5-OLATE",
+    "Actual PDB code": "C12",
+    "Three letter code": "C12",
+    "MAP notation": "{nnr:C12}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)c1nc(Cc2ccc(O)cc2)c([O-])n1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, PHE, GLY)",
+    "Modifications": "{(2R)-2-[(1S,2R)-1-AMINO-2-HYDROXYPROPYL]-2-HYDROXY-4,5-DIOXOIMIDAZOLIDIN-1-YL}ACETIC ACID",
+    "Actual PDB code": "C99",
+    "Three letter code": "C99",
+    "MAP notation": "{nnr:C99}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)[C@@]1(O)NC(=O)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (CYS, TYR, GLY)",
+    "Modifications": "2-(1-AMINO-2-MERCAPTO-ETHYL)-5-(4-HYDROXY-BENZYL)-3-(ETHANOYL)-3,5-DIHYDRO-IMIDAZOL-4-ONE",
+    "Actual PDB code": "CCY",
+    "Three letter code": "CCY",
+    "MAP notation": "{nnr:CCY}",
+    "Type": null,
+    "SMILES": "N[C@@H](CS)[C@H]1N[C@@H](Cc2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (PHE, CYS, TYR, GLY)",
+    "Modifications": "[(4Z)-2-{(2R)-2-[(1S)-1-amino-2-phenylethyl]-2-hydroxy-2,5-dihydro-1,3-thiazol-4-yl}-4-(4-hydroxybenzylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid",
+    "Actual PDB code": "CFY",
+    "Three letter code": "CFY",
+    "MAP notation": "{nnr:CFY}",
+    "Type": null,
+    "SMILES": "N[C@@H](Cc1ccccc1)[C@@]2(O)SCC(=N2)C3=NC(=C\\c4ccc(O)cc4)/C(=O)N3CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (MET, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1S)-1-amino-3-(methylsulfanyl)propyl]-4-[(4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "CH6",
+    "Three letter code": "CH6",
+    "MAP notation": "{nnr:CH6}",
+    "Type": null,
+    "SMILES": "CSCC[C@H](N)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (LYS,TYR,GLY)",
+    "Modifications": "[(4Z)-4-(4-HYDROXYBENZYLIDENE)-5-OXO-2-(3,4,5,6-TETRAHYDROPYRIDIN-2-YL)-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "CH7",
+    "Three letter code": "CH7",
+    "MAP notation": "{nnr:CH7}",
+    "Type": null,
+    "SMILES": "OC(=O)CN1C(=O)C(=C/c2ccc(O)cc2)/N=C1C3=NCCCC3"
+  },
+  {
+    "Natural Amino Acid": "Multiple (LYS, TYR, GLY)",
+    "Modifications": "2-[2-[(1~{S})-1,5-bis(azanyl)pentyl]-4-[(4-hydroxyphenyl)methyl]-5-oxidanylidene-imidazol-1-yl]ethanamide",
+    "Actual PDB code": "CIV",
+    "Three letter code": "CIV",
+    "MAP notation": "{nnr:CIV}",
+    "Type": null,
+    "SMILES": "NCCCC[C@H](N)C1=[N+](CC(O)=O)C(=O)C(=N1)Cc2ccc(O)cc2"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "[(2R,4R)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-(4-hydroxybenzyl)-5-oxoimidazolidin-1-yl]acetic acid",
+    "Actual PDB code": "CJO",
+    "Three letter code": "CJO",
+    "MAP notation": "{nnr:CJO}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)[C@@H]1N[C@H](Cc2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA, PHE, GLY)",
+    "Modifications": "{(2S)-2-[(1S)-1-AMINOETHYL]-5-OXO-2,5-DIHYDRO-1H-IMIDAZOL-1-YL}ACETIC ACID",
+    "Actual PDB code": "CLV",
+    "Three letter code": "CLV",
+    "MAP notation": "{nnr:CLV}",
+    "Type": null,
+    "SMILES": "C[C@H](N)[C@H]1N=CC(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "{(4Z)-4-(4-aminobenzylidene)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "CQ2",
+    "Three letter code": "CQ2",
+    "MAP notation": "{nnr:CQ2}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2ccc(N)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "[(4Z)-2-(AMINOMETHYL)-4-(4-HYDROXYBENZYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "CQR",
+    "Three letter code": "CQR",
+    "MAP notation": "{nnr:CQR}",
+    "Type": null,
+    "SMILES": "NCC1=NC(=Cc2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, LEU, GLY)",
+    "Modifications": "[2-(1-AMINO-2-HYDROXYPROPYL)-2-HYDROXY-4-ISOBUTYL-5-OXO-2,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETALDEHYDE",
+    "Actual PDB code": "CR0",
+    "Three letter code": "CR0",
+    "MAP notation": "{nnr:CR0}",
+    "Type": null,
+    "SMILES": "CC(C)CC1=N[C@](O)([C@@H](N)[C@@H](C)O)N(CC(O)=O)C1=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "{(4Z)-2-(aminomethyl)-4-[(4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "CR2",
+    "Three letter code": "CR2",
+    "MAP notation": "{nnr:CR2}",
+    "Type": null,
+    "SMILES": "NCC1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (LYS, TYR, GLY)",
+    "Modifications": "[(4Z)-2-[(1S)-1,5-DIAMINOPENTYL]-4-(4-HYDROXYBENZYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "CR7",
+    "Three letter code": "CR7",
+    "MAP notation": "{nnr:CR7}",
+    "Type": null,
+    "SMILES": "NCCCC[C@H](N)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (HIS, TYR, GLY)",
+    "Modifications": "2-[1-AMINO-2-(1H-IMIDAZOL-5-YL)ETHYL]-1-(CARBOXYMETHYL)-4-[(4-OXOCYCLOHEXA-2,5-DIEN-1-YLIDENE)METHYL]-1H-IMIDAZOL-5-OLATE",
+    "Actual PDB code": "CR8",
+    "Three letter code": "CR8",
+    "MAP notation": "{nnr:CR8}",
+    "Type": null,
+    "SMILES": "N[C@@H](Cc1[nH]cnc1)c2nc(C=C3C=CC(=O)C=C3)c([O-])n2CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TRP, GLY)",
+    "Modifications": "[(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-(1H-indol-3-ylmethylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid",
+    "Actual PDB code": "CRF",
+    "Three letter code": "CRF",
+    "MAP notation": "{nnr:CRF}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2c[nH]c3ccccc23)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, HIS, GLY)",
+    "Modifications": "[2-(1-AMINO-2-HYDROXY-PROPYL)-4-(3H-IMIDAZOL-4-YLMETHYLENE)-5-OXO-4,5-DIHYDRO-IMIDAZOL-1-YL]-ACETIC ACID",
+    "Actual PDB code": "CRG",
+    "Three letter code": "CRG",
+    "MAP notation": "{nnr:CRG}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2c[nH]cn2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (MET, TYR, GLY)",
+    "Modifications": "4-{(Z)-[2-[3-(METHYLSULFANYL)PROPANOYL]-5-OXO-1-(2-OXOETHYL)-1,5-DIHYDRO-4H-IMIDAZOL-4-YLIDENE]METHYL}BENZENOLATE",
+    "Actual PDB code": "CRK",
+    "Three letter code": "CRK",
+    "MAP notation": "{nnr:CRK}",
+    "Type": null,
+    "SMILES": "CSCCC(=O)C1=NC(=C/c2ccc([O-])cc2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "{2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-(4-hydroxybenzylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "CRO",
+    "Three letter code": "CRO",
+    "MAP notation": "{nnr:CRO}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLN, TYR, GLY)",
+    "Modifications": "[2-(3-CARBAMOYL-1-IMINO-PROPYL)-4-(4-HYDROXY-BENZYLIDENE)-5-OXO-4,5-DIHYDRO-IMIDAZOL-1-YL]-ACETIC ACID",
+    "Actual PDB code": "CRQ",
+    "Three letter code": "CRQ",
+    "MAP notation": "{nnr:CRQ}",
+    "Type": null,
+    "SMILES": "NC(=O)CCC(=N)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLU, TYR, GLY)",
+    "Modifications": "4-[(4Z)-1-(CARBOXYMETHYL)-4-(4-HYDROXYBENZYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-2-YL]-4-IMINOBUTANOIC ACID",
+    "Actual PDB code": "CRU",
+    "Three letter code": "CRU",
+    "MAP notation": "{nnr:CRU}",
+    "Type": null,
+    "SMILES": "OC(=O)CCC(=N)C1=N\\C(=C\\c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA, SER, GLY)",
+    "Modifications": "[2-(1-AMINOETHYL)-2-HYDROXY-4-METHYLENE-5-OXOIMIDAZOLIDIN-1-YL]ACETIC ACID",
+    "Actual PDB code": "CRX",
+    "Three letter code": "CRX",
+    "MAP notation": "{nnr:CRX}",
+    "Type": null,
+    "SMILES": "C[C@H](N)[C@@]1(O)NC(=C)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (SER, HIS, GLY)",
+    "Modifications": "[2-(2-HYDROXY-1-METHYL-ETHYL)-4-(1H-IMIDAZOL-4-YLMETHYL)-5-OXO-IMIDAZOLIDIN-1-YL]-ACETIC ACID",
+    "Actual PDB code": "CSH",
+    "Three letter code": "CSH",
+    "MAP notation": "{nnr:CSH}",
+    "Type": null,
+    "SMILES": "N[C@@H](CO)[C@H]1N[C@@H](Cc2c[nH]cn2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (SER, TYR, GLY)",
+    "Modifications": "[(4Z)-2-[(1R)-1-amino-2-hydroxyethyl]-4-(4-hydroxybenzylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid",
+    "Actual PDB code": "CSY",
+    "Three letter code": "CSY",
+    "MAP notation": "{nnr:CSY}",
+    "Type": null,
+    "SMILES": "N[C@@H](CO)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "[(2R,4S)-2-[(1S,2R)-1-amino-2-hydroxypropyl]-2-hydroxy-4-(4-hydroxybenzyl)-5-oxoimidazolidin-1-yl]acetic acid",
+    "Actual PDB code": "CZO",
+    "Three letter code": "CZO",
+    "MAP notation": "{nnr:CZO}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)[C@@]1(O)N[C@@H](Cc2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ASP, TYR, GLY)",
+    "Modifications": "(3S)-3-amino-3-[(4Z)-1-(carboxymethyl)-4-[(4-hydroxyphenyl)methylidene]-5-oxo-imidazol-2-yl]propanoic acid",
+    "Actual PDB code": "DYG",
+    "Three letter code": "DYG",
+    "MAP notation": "{nnr:DYG}",
+    "Type": null,
+    "SMILES": "N[C@@H](CC(O)=O)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (MET, TYR, GLY)",
+    "Modifications": "{(2R,4Z)-2-[(1R)-1-amino-3-(methylsulfanyl)propyl]-2-hydroxy-4-[(4-hydroxyphenyl)methylidene]-5-oxoimidazolidin-1-yl}acetic acid",
+    "Actual PDB code": "EYG",
+    "Three letter code": "EYG",
+    "MAP notation": "{nnr:EYG}",
+    "Type": null,
+    "SMILES": "CSCC[C@@H](N)[C@@]1(O)NC(=C/c2ccc(O)cc2)\\C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "2-[(4~{Z})-2-[(1~{R})-1-azanyl-2-oxidanylidene-propyl]-4-[[4-[(2-nitrophenyl)methoxy]phenyl]methylidene]-5-oxidanylidene-imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "FHE",
+    "Three letter code": "FHE",
+    "MAP notation": "{nnr:FHE}",
+    "Type": null,
+    "SMILES": "CC(=O)[C@H](N)C1=NC(=C/c2ccc(OCc3ccccc3[N+]([O-])=O)cc2)\\C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(4-nitrophenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "GMO",
+    "Three letter code": "GMO",
+    "MAP notation": "{nnr:GMO}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=NC(=C\\c2ccc(cc2)[N+]([O-])=O)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (CYS, TYR, GLY)",
+    "Modifications": "[(4Z)-2-[(1R)-1-AMINO-2-MERCAPTOETHYL]-4-(4-HYDROXYBENZYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "GYC",
+    "Three letter code": "GYC",
+    "MAP notation": "{nnr:GYC}",
+    "Type": null,
+    "SMILES": "N[C@@H](CS)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (SER, TYR, GLY)",
+    "Modifications": "[(4Z)-2-(1-AMINO-2-HYDROXYETHYL)-4-(4-HYDROXYBENZYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "GYS",
+    "Three letter code": "GYS",
+    "MAP notation": "{nnr:GYS}",
+    "Type": null,
+    "SMILES": "N[C@@H](CO)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA, LYS)",
+    "Modifications": "(2S)-2,8-DIAMINOOCTANOIC ACID",
+    "Actual PDB code": "HHK",
+    "Three letter code": "HHK",
+    "MAP notation": "{nnr:HHK}",
+    "Type": null,
+    "SMILES": "NCCCCCC[C@H](N)C(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (Thr,Tyr,Gly)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(4-hydroxy-3-iodophenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "I1C",
+    "Three letter code": "I1C",
+    "MAP notation": "{nnr:I1C}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=NC(=C\\c2ccc(O)c(I)c2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (SER, HIS, GLY)",
+    "Modifications": "4-IMIDAZOLMETHYLENE-5-IMIDAZOLONE CHROMOPHORE",
+    "Actual PDB code": "IIC",
+    "Three letter code": "IIC",
+    "MAP notation": "{nnr:IIC}",
+    "Type": null,
+    "SMILES": "N[C@@H](CO)[C@H]1N=C(Cc2[nH]cnc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TRP, GLY)",
+    "Modifications": "2-[2-(aminomethyl)-4-(1H-indol-3-ylmethyl)-5-oxidanylidene-4H-imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "IO8",
+    "Three letter code": "IO8",
+    "MAP notation": "{nnr:IO8}",
+    "Type": null,
+    "SMILES": "NCC1=NC(=C\\c2c[nH]c3ccccc23)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, SER, GLY)",
+    "Modifications": "{2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-methylidene-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "KWS",
+    "Three letter code": "KWS",
+    "MAP notation": "{nnr:KWS}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=NC(=C)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (CYS, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R)-1-amino-2-sulfanylethyl]-5-oxo-4-[(2,3,5-trifluoro-4-hydroxyphenyl)methylidene]-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "KZ1",
+    "Three letter code": "KZ1",
+    "MAP notation": "{nnr:KZ1}",
+    "Type": null,
+    "SMILES": "N[C@@H](CS)C1=N\\C(=C/c2cc(F)c(O)c(F)c2F)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (CYS, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R)-1-amino-2-sulfanylethyl]-4-[(3-bromo-4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "KZ4",
+    "Three letter code": "KZ4",
+    "MAP notation": "{nnr:KZ4}",
+    "Type": null,
+    "SMILES": "N[C@@H](CS)C1=N\\C(=C/c2ccc(O)c(Br)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (CYS, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R)-1-amino-2-sulfanylethyl]-4-[(3-chloro-4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "KZ7",
+    "Three letter code": "KZ7",
+    "MAP notation": "{nnr:KZ7}",
+    "Type": null,
+    "SMILES": "N[C@@H](CS)C1=N\\C(=C/c2ccc(O)c(Cl)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (CYS, TYR, GLY)",
+    "Modifications": ";{(4Z)-2-[(1R)-1-amino-2-sulfanylethyl]-4-[(4-hydroxy-3-iodophenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}aceti",
+    "Actual PDB code": "KZG",
+    "Three letter code": "KZG",
+    "MAP notation": "{nnr:KZG}",
+    "Type": null,
+    "SMILES": "N[C@@H](CS)C1=N\\C(=C/c2ccc(O)c(I)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (CYS, TYR, GLY)",
+    "Modifications": ";{(4Z)-2-[(1R)-1-amino-2-sulfanylethyl]-4-[(3-fluoro-4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}ace",
+    "Actual PDB code": "KZV",
+    "Three letter code": "KZV",
+    "MAP notation": "{nnr:KZV}",
+    "Type": null,
+    "SMILES": "N[C@@H](CS)C1=N\\C(=C/c2ccc(O)c(F)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (CYS, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R)-1-amino-2-sulfanylethyl]-4-[(4-hydroxy-3-methylphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "KZY",
+    "Three letter code": "KZY",
+    "MAP notation": "{nnr:KZY}",
+    "Type": null,
+    "SMILES": "Cc1cc(ccc1O)\\C=C2/N=C([C@@H](N)CS)N(CC(O)=O)C2=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(4-cyanophenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "M3V",
+    "Three letter code": "M3V",
+    "MAP notation": "{nnr:M3V}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=NC(=C\\c2ccc(cc2)C#N)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA, SER, GLY)",
+    "Modifications": "{2-[(1S)-1-aminoethyl]-4-methylidene-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "MDO",
+    "Three letter code": "MDO",
+    "MAP notation": "{nnr:MDO}",
+    "Type": null,
+    "SMILES": "C[C@H](N)C1=NC(=C)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "5-[1-(3-FLUORO-4-HYDROXY-PHENYL)-METH-(Z)-YLIDENE]-3,5-DIHYDRO-IMIDAZOL-4-ONE",
+    "Actual PDB code": "MFC",
+    "Three letter code": "MFC",
+    "MAP notation": "{nnr:MFC}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2ccc(O)c(F)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY )",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(4-hydroxy-3-methylphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "MFV",
+    "Three letter code": "MFV",
+    "MAP notation": "{nnr:MFV}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2ccc(O)c(C)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (Thr,Tyr,Gly)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(3,5-difluoro-4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "MHY",
+    "Three letter code": "MHY",
+    "MAP notation": "{nnr:MHY}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2cc(F)c(O)c(F)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (Thr,Tyr,Gly)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(2,3-difluoro-4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "MJ1",
+    "Three letter code": "MJ1",
+    "MAP notation": "{nnr:MJ1}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=NC(=C\\c2ccc(O)c(F)c2F)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (LEU,TYR,GLY)",
+    "Modifications": "{4-[(4-hydroxyphenyl)methylidene]-2-[(1E)-3-methylbutanimidoyl]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "NRP",
+    "Three letter code": "NRP",
+    "MAP notation": "{nnr:NRP}",
+    "Type": null,
+    "SMILES": "CC(C)CC(=N)C1=NC(=C/c2ccc(O)cc2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (MET,TYR,GLY)",
+    "Modifications": "{(4Z)-4-(4-hydroxybenzylidene)-2-[3-(methylthio)propanimidoyl]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "NRQ",
+    "Three letter code": "NRQ",
+    "MAP notation": "{nnr:NRQ}",
+    "Type": null,
+    "SMILES": "CSCCC(=N)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TRP, GLY)",
+    "Modifications": "[(4E)-2-[(1R,2S)-1-AMINO-2-HYDROXYPROPYL]-4-(1H-INDOL-3-YLMETHYLENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "NYC",
+    "Three letter code": "NYC",
+    "MAP notation": "{nnr:NYC}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2c[nH]c3ccccc23)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ASN,TYR,GLY)",
+    "Modifications": "[(4Z)-2-[(1S)-1,3-DIAMINO-3-OXOPROPYL]-4-(4-HYDROXYBENZYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "NYG",
+    "Three letter code": "NYG",
+    "MAP notation": "{nnr:NYG}",
+    "Type": null,
+    "SMILES": "N[C@@H](CC(N)=O)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (PHE, GLY, TYR, GLY)",
+    "Modifications": ";[(4Z)-2-{(2R,5R)-2-[(1S)-1-amino-2-phenylethyl]-2-hydroxy-5-methyl-2,5-dihydro-1,3-oxazol-4-yl}-4-(4-hydroxybenzylidene",
+    "Actual PDB code": "OFM",
+    "Three letter code": "OFM",
+    "MAP notation": "{nnr:OFM}",
+    "Type": null,
+    "SMILES": "C[C@H]1O[C@@](O)(N=C1C2=N\\C(=C/c3ccc(O)cc3)C(=O)N2CC(O)=O)[C@@H](N)Cc4ccccc4"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA,TYR,GLY)",
+    "Modifications": "{(4Z)-2-[(1S)-1-aminoethyl]-4-[(3-chloro-4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "OHD",
+    "Three letter code": "OHD",
+    "MAP notation": "{nnr:OHD}",
+    "Type": null,
+    "SMILES": "C[C@H](N)C1=N\\C(=C/c2ccc(O)c(Cl)c2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ILE, GLY, TYR, GLY)",
+    "Modifications": "[(4Z)-2-{(2R,5R)-2-[(1S,2S)-1-amino-2-methylbutyl]-2-hydroxy-5-methyl-2,5-dihydro-1,3-oxazol-4-yl}-4-(4-hydroxybenzylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid",
+    "Actual PDB code": "OIM",
+    "Three letter code": "OIM",
+    "MAP notation": "{nnr:OIM}",
+    "Type": null,
+    "SMILES": "CC[C@H](C)[C@H](N)[C@@]1(O)O[C@H](C)C(=N1)C2=N\\C(=C/c3ccc(O)cc3)C(=O)N2CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (MET, TYR, GLY)",
+    "Modifications": "2-[2-(3-methylsulfanylpropanimidoyl)-4,5-bis(oxidanylidene)imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "Q2K",
+    "Three letter code": "Q2K",
+    "MAP notation": "{nnr:Q2K}",
+    "Type": null,
+    "SMILES": "CSCCC(=N)C1=NC(=O)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-5-oxo-4-[(2,3,5-trifluoro-4-hydroxyphenyl)methylidene]-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "QC4",
+    "Three letter code": "QC4",
+    "MAP notation": "{nnr:QC4}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2cc(F)c(O)c(F)c2F)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(4-hydroxy-3-nitrophenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "QCA",
+    "Three letter code": "QCA",
+    "MAP notation": "{nnr:QCA}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)C1=N\\C(=C/c2ccc(O)c(c2)[N](=O)=O)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, TYR, GLY)",
+    "Modifications": ";{(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(4-hydroxy-3-methoxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl",
+    "Actual PDB code": "QCD",
+    "Three letter code": "QCD",
+    "MAP notation": "{nnr:QCD}",
+    "Type": null,
+    "SMILES": "COc1cc(ccc1O)\\C=C2/N=C([C@@H](N)[C@@H](C)O)N(CC(O)=O)C2=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLN, PHE, GLY)",
+    "Modifications": "{(4E)-2-[(1E)-4-amino-4-oxobutanimidoyl]-4-benzylidene-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "QFG",
+    "Three letter code": "QFG",
+    "MAP notation": "{nnr:QFG}",
+    "Type": null,
+    "SMILES": "NC(=O)CCC(=N)C1=NC(=C/c2ccccc2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (MET, TYR, GLY)",
+    "Modifications": "2-[(2~{S})-2-(3-methylsulfanylpropanimidoyl)-2-oxidanyl-4-oxidanylidene-imidazolidin-1-yl]-2-oxidanylidene-ethanamide",
+    "Actual PDB code": "QIP",
+    "Three letter code": "QIP",
+    "MAP notation": "{nnr:QIP}",
+    "Type": null,
+    "SMILES": "CSCCC(=N)[C@]1(O)NC(=O)CN1C(=O)C(N)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLN, LEU, GLY)",
+    "Modifications": "[(4Z)-2-[(1Z)-4-AMINO-4-OXOBUTANIMIDOYL]-4-(2-METHYLPROPYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "QLG",
+    "Three letter code": "QLG",
+    "MAP notation": "{nnr:QLG}",
+    "Type": null,
+    "SMILES": "CC(C)\\C=C/1N=C(N(CC(O)=O)C/1=O)C(=N)CCC(N)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLN, TYR, GLY)",
+    "Modifications": "{(4E)-2-[(1S)-1,4-diamino-4-oxobutyl]-4-[(4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetic acid",
+    "Actual PDB code": "QYG",
+    "Three letter code": "QYG",
+    "MAP notation": "{nnr:QYG}",
+    "Type": null,
+    "SMILES": "N[C@@H](CCC(N)=O)C1=NC(=C/c2ccc(O)cc2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (MET, TYR, GLY)",
+    "Modifications": "2-[4-[(4-hydroxyphenyl)methyl]-2-(3-methylsulfanylpropanimidoyl)-5-oxidanylidene-imidazol-1-ium-1-yl]ethanoic acid",
+    "Actual PDB code": "QYX",
+    "Three letter code": "QYX",
+    "MAP notation": "{nnr:QYX}",
+    "Type": null,
+    "SMILES": "CSCCC(=N)C1=[N+](CC(O)=O)C(=O)C(=N1)Cc2ccc(O)cc2"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ASP, CYS)",
+    "Modifications": "(2R)-2-[(3S)-3-amino-2,5-dioxopyrrolidin-1-yl]-3-sulfanylpropanoic acid",
+    "Actual PDB code": "SIC",
+    "Three letter code": "SIC",
+    "MAP notation": "{nnr:SIC}",
+    "Type": null,
+    "SMILES": "N[C@H]1CC(=O)N([C@@H](CS)C(O)=O)C1=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ASP, GLY)",
+    "Modifications": "(3-AMINO-2,5-DIOXO-1-PYRROLIDINYL)ACETIC ACID",
+    "Actual PDB code": "SUI",
+    "Three letter code": "SUI",
+    "MAP notation": "{nnr:SUI}",
+    "Type": null,
+    "SMILES": "N[C@H]1CC(=O)N(CC(O)=O)C1=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (SER, TRP, GLY)",
+    "Modifications": "2-[(4Z)-2-[(1R)-1-amino-2-hydroxy-ethyl]-4-(1H-indol-3-ylmethylidene)-5-oxo-imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "SWG",
+    "Three letter code": "SWG",
+    "MAP notation": "{nnr:SWG}",
+    "Type": null,
+    "SMILES": "N[C@@H](CO)C1=N\\\\C(=C/c2c[nH]c3ccccc23)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (LEU,TYR,GLY)",
+    "Modifications": "2-[4-[(4-hydroxyphenyl)methyl]-2-(3-methylbutanimidoyl)-5-oxidanyl-imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "VUB",
+    "Three letter code": "VUB",
+    "MAP notation": "{nnr:VUB}",
+    "Type": null,
+    "SMILES": "CC(C)CC(=N)c1nc(Cc2ccc(O)cc2)c(O)n1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (LEU, TYR, GLY)",
+    "Modifications": "2-[(4~{Z})-2-[(1~{S})-1-azanyl-3-methyl-butyl]-4-[(4-hydroxyphenyl)methylidene]-5-oxidanylidene-imidazol-1-yl]ethanoic acid",
+    "Actual PDB code": "VYA",
+    "Three letter code": "VYA",
+    "MAP notation": "{nnr:VYA}",
+    "Type": null,
+    "SMILES": "CC(C)C[C@H](N)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (GLY, TYR, GLY)",
+    "Modifications": "[(2R,4Z)-2-(aminomethyl)-2-hydroxy-4-(4-hydroxybenzylidene)-5-oxoimidazolidin-1-yl]acetic acid",
+    "Actual PDB code": "WCR",
+    "Three letter code": "WCR",
+    "MAP notation": "{nnr:WCR}",
+    "Type": null,
+    "SMILES": "NC[C@@]1(O)NC(=C\\c2ccc(O)cc2)/C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (HIS, TYR, GLY)",
+    "Modifications": "{(4Z)-2-[(1S)-1-amino-2-(1-methyl-1H-imidazol-5-yl)ethyl]-4-[(4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl}acetaldehyde",
+    "Actual PDB code": "X1B",
+    "Three letter code": "X1B",
+    "MAP notation": "{nnr:X1B}",
+    "Type": null,
+    "SMILES": "Cn1cncc1C[C@H](N)C2=NC(=C/c3ccc(O)cc3)\\C(=O)N2CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA, PHE,GLY)",
+    "Modifications": "{(2S)-2-[(1S)-1-AMINOETHYL]-4-BENZYL-5-OXO-2,5-DIHYDRO-1H-IMIDAZOL-1-YL}ACETIC ACID",
+    "Actual PDB code": "X9Q",
+    "Three letter code": "X9Q",
+    "MAP notation": "{nnr:X9Q}",
+    "Type": null,
+    "SMILES": "C[C@H](N)[C@H]1N=C(Cc2ccccc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (THR, HIS, GLY)",
+    "Modifications": "2-[(1R,2R)-1-amino-2-hydroxypropyl]-1-(carboxymethyl)-4-(1H-imidazol-5-ylmethyl)-1H-imidazol-5-olate",
+    "Actual PDB code": "XXY",
+    "Three letter code": "XXY",
+    "MAP notation": "{nnr:XXY}",
+    "Type": null,
+    "SMILES": "C[C@@H](O)[C@H](N)c1nc(Cc2[nH]cnc2)c([O-])n1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ASP, TYR, GLY)",
+    "Modifications": "[(4Z)-2-[(1Z)-ETHANIMIDOYL]-4-(4-HYDROXYBENZYLIDENE)-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-1-YL]ACETIC ACID",
+    "Actual PDB code": "XYG",
+    "Three letter code": "XYG",
+    "MAP notation": "{nnr:XYG}",
+    "Type": null,
+    "SMILES": "CC(=N)C1=N\\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"
+  },
+  {
+    "Natural Amino Acid": "Multiple (ALA, SER, GLY)",
+    "Modifications": "2-[(4E)-2-[(1S)-1-aminoethyl]-4-(hydroxymethylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid",
+    "Actual PDB code": "ZRF",
+    "Three letter code": "ZRF",
+    "MAP notation": "{nnr:ZRF}",
+    "Type": null,
+    "SMILES": "C[C@H](N)C1=N\\C(=C\\O)C(=O)N1CC(O)=O"
+  }
+]
